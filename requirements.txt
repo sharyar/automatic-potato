@@ -5,9 +5,7 @@ numpy
 pandas
 polars
 sodapy
-pandas-profiling
-torch==2.0.0
-torchaudio==2.0.0
-torchvision==0.15.0
 jupyterlab
-fastapi
+streamlit
+xgboost
+pyarrow
